@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ehi!
-🎓  ## 3rd-Year Computer Science Student
-💻  ## Aspiring Software Developer | Aspiring Data Analsyt 
+🎓 3rd-Year Computer Science Student
+💻 Aspiring Software Developer | Aspiring Data Analsyt ##
 
 
 
