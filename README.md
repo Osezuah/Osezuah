@@ -6,6 +6,7 @@
 
 **🌍 Nigerian | Based in Canada**
 
+
 **🚀 About Me**
 
 🌟 Passionate about building efficient and scalable software solutions.
@@ -13,6 +14,7 @@
 💡 Exploring data analysis, web development, parallel processing, and app development.
 
 🌱 Currently learning cross-platform development, full-stack development, and machine learning algorithms.
+
 
 **🛠️ Technologies & Tools**
 
@@ -25,6 +27,7 @@
 **Platforms**: Cloudera, Hadoop HDFS, Hadoop MapReduce, Pig, HiveQL, Kali Linux, Metasploitable, Pfsense
 
 **Other Skills**: Threat Modeling, Vulnerability Discovery
+
 
 **🌟 Featured Projects**
 
