@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Ehi!
+🎓  ## 3rd-Year Computer Science Student
+💻  ## Aspiring Software Developer | Aspiring Data Analsyt 
+
+
+
 
 <!--
 **Osezuah/Osezuah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
