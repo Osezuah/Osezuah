@@ -18,40 +18,29 @@
 <br><br>
 **🛠️ Technologies & Tools**
 
-**Programming Languages**: C++, Python, Java, HTML, CSS, JavaScript
+**💻 Programming Languages**: C++, Python, Java, HTML, CSS, JavaScript
 
-**Frameworks & Libraries**: Bootstrap, Pandas, CROW, MPI, Boost, OpenMP, Threads
+**📚 Frameworks & Libraries**: Bootstrap, Pandas, CROW, MPI, Boost, OpenMP, Threads
 
-**Tools**: Docker, SonarQube, Zaproxy, PVS-Studio, Github Actions
+**🔧 Tools**: Docker, SonarQube, Zaproxy, PVS-Studio, Github Actions
 
-**Platforms**: Cloudera, Hadoop HDFS, Hadoop MapReduce, Pig, HiveQL, Kali Linux, Metasploitable, Pfsense
+**🖥️ Platforms**: Cloudera, Hadoop HDFS, Hadoop MapReduce, Pig, HiveQL, Kali Linux, Metasploitable, Pfsense
 
-**Other Skills**: Threat Modeling, Vulnerability Discovery
+**🔒 Other Skills**: Threat Modeling, Vulnerability Discovery
 
 <br><br>
 **🌟 Featured Projects**
 
-Ecommerce Website
+📦 Ecommerce Website
 
-Built with Docker, C++, and Crow for a networking course project.
+  Built with Docker, C++, and Crow for a networking course project.
 
-Home Automation Website
+🏠 Home Automation Website
 
-Built with Blazor, C#, SQL Lite and Docker for a project V (5) course project.
+  Built with Blazor, C#, SQL Lite and Docker for a project V (5) course project.
 
+<br><br>
+**🤝 Connect With Me**
 
+🔗 https://www.linkedin.com/in/theresa-osezuah/
 
-<!--
-**Osezuah/Osezuah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
