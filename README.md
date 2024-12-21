@@ -1,6 +1,9 @@
 ## Hi there 👋 I'm Ehi!
+
 🎓 3rd-Year Computer Science Student
+
 💻 Software Developer | Data Analyst
+
 🌍 Nigerian | Based in Canada
 
 
