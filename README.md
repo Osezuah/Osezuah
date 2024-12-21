@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ehi!
+## Hi there 👋 I'm Ehi😊
 
 **🎓 3rd-Year Computer Science Student**
 
