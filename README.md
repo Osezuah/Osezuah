@@ -18,11 +18,11 @@
 <br><br>
 **🛠️ Technologies & Tools**
 
-**💻 Programming Languages**: C++, Python, Java, HTML, CSS, JavaScript
+**💻 Programming Languages**: C++, Python, Java, HTML, CSS, JavaScript, SQL, R
 
 **📚 Frameworks & Libraries**: Bootstrap, Pandas, CROW, MPI, Boost, OpenMP, Threads
 
-**🔧 Tools**: Docker, SonarQube, Zaproxy, PVS-Studio, Github Actions
+**🔧 Tools**: Docker, Power BI, Excel, Google Sheets, SonarQube, Zaproxy, PVS-Studio, Github Actions 
 
 **🖥️ Platforms**: Cloudera, Hadoop HDFS, Hadoop MapReduce, Pig, HiveQL, Kali Linux, Metasploitable, Pfsense
 
