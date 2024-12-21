@@ -6,7 +6,7 @@
 
 **🌍 Nigerian | Based in Canada**
 
-
+<br><br>
 **🚀 About Me**
 
 🌟 Passionate about building efficient and scalable software solutions.
@@ -15,7 +15,7 @@
 
 🌱 Currently learning cross-platform development, full-stack development, and machine learning algorithms.
 
-
+<br><br>
 **🛠️ Technologies & Tools**
 
 **Programming Languages**: C++, Python, Java, HTML, CSS, JavaScript
@@ -28,7 +28,7 @@
 
 **Other Skills**: Threat Modeling, Vulnerability Discovery
 
-
+<br><br>
 **🌟 Featured Projects**
 
 Ecommerce Website
