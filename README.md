@@ -33,6 +33,8 @@
 
 📦 Ecommerce Website
 
+**Candle Shop**
+
   Built with Docker, C++, and Crow for a networking course project.
 
 🏠 Home Automation Website
