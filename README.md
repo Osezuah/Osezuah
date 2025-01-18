@@ -33,13 +33,12 @@
 
 📦 Ecommerce Website
 
-**Candle Shop**
-
-  Built with Docker, C++, and Crow for a networking course project.
-
+  **Candle Shop**: Built with Docker, C++, and Crow for a networking course project.
+  
+<br><br>
 🏠 Home Automation Website
 
-  Built with Blazor, C#, SQL Lite and Docker for a project V (5) course project.
+  **Portal Tier Proejct V**: Built with Blazor, C#, SQL Lite and Docker for a project V (5) course project.
 
 <br><br>
 **🤝 Connect With Me**
