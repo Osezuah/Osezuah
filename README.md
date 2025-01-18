@@ -24,7 +24,7 @@
 
 **🔧 Tools**: Docker, Power BI, Excel, Google Sheets, SonarQube, Zaproxy, PVS-Studio, Github Actions 
 
-**🖥️ Platforms**: Cloudera, Hadoop HDFS, Hadoop MapReduce, Pig, HiveQL, Kali Linux, Metasploitable, Pfsense
+**🖥️ Platforms**: AWS EC2, Azure, Cloudera, Hadoop HDFS, Hadoop MapReduce, Pig, HiveQL, Kali Linux, Metasploitable, Pfsense
 
 **🔒 Other Skills**: Threat Modeling, Vulnerability Discovery
 
