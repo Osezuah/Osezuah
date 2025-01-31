@@ -9,6 +9,8 @@
 <br><br>
 **🚀 About Me**
 
+🍀 I am currently contributing to this project: https://github.com/andrewgg1/Project6-Group3-Web
+
 🌟 Passionate about building efficient and scalable software solutions.
 
 💡 Exploring data analysis, web development, parallel processing, and app development.
